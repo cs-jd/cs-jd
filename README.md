@@ -33,4 +33,4 @@ I hope to get to know more people in the area and improve my skills along the wa
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cs-jd&layout=compact&bg_color=0D1117&title_color=ff6e96&icon_color=38a0ff&text_color=e9e9e9&border_color=FFC9D8) 
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cs-jd&show_icons=true&bg_color=0D1117&title_color=ff6e96&icon_color=38a0ff&text_color=e9e9e9&border_color=FFC9D8&hide=contribs) -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cs-jd&show_icons=true&bg_color=0D1117&title_color=ff6e96&icon_color=38a0ff&text_color=e9e9e9&border_color=FFC9D8&hide=contribs)
