@@ -27,7 +27,7 @@ I hope to get to know more people in the area and improve my skills along the wa
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Not%20Done.png" alt="Hourglass Not Done" width="30" height="30" /> What comes next?
 ##### This is what I plan to learn so I can bring my projects to life and be a better programmer
 
-[![Learning plan](https://skillicons.dev/icons?i=ts,nodejs,postgres,mongodb,react,nextjs,bootstrap,laravel,phpstorm,vercel&perline=5)](https://skillicons.dev)
+[![Learning plan](https://skillicons.dev/icons?i=ts,nodejs,postgres,mongodb,react,nextjs,bootstrap,laravel,phpstorm,vercel,sass,tailwind&perline=6)](https://skillicons.dev)
 
 ## GitHub Stats 
 
