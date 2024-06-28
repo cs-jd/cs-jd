@@ -9,7 +9,7 @@
 
 <hr>
 
-I'm an eager learner, currently studying Systems Development at Uni and pursuing knowledge as I move forward. Currently still a beginner studying JavaScript, CSS and HTML, but I have so much planned already! As I develop my skills, I intend to study SQL, Python, PHP, JavaScript libraries (namely React and Node.js) and Bootstrap so I can bring to life all the projects I've envisioned.
+I'm an eager learner, currently studying Systems Development at Uni and pursuing knowledge as I move forward. Currently studying Python, SQL, JavaScript, CSS and HTML, and I have so much planned already! As I develop my skills, I intend to study PHP, JavaScript libraries and frameworks (namely React and Node.js), and Bootstrap so I can bring to life all the projects I've envisioned.
 
 So far I've been publishing my progress as I study so I can see how far I've come in the future. I'm also very passionate about other things: languages, gaming, anime... I like to take my time to do everything I like and balance out work and personal life. It's also fun to mix things up, as some of the projects I plan on developing involve my other interests too!
 
@@ -19,7 +19,7 @@ I hope to get to know more people in the area and improve my skills along the wa
 
 ### Languages, Technologies and Libraries
 
-[![Technologies](https://skillicons.dev/icons?i=js,html,css,python,php&perline=5)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=js,html,css,python,php,sqlite&perline=6)](https://skillicons.dev)
 
 ### Tools and Platforms
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,aws,figma,regex,notion,obsidian,pycharm,npm&perline=5)](https://skillicons.dev)
