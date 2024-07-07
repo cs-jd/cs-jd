@@ -3,7 +3,7 @@
 <h2 align="center">My #30NitesOfCode pet</h2>
 <div align="center">
   
-  ![@vkrn #30NitesOfCode](https://www.codedex.io/api/petStatus?user=vkrn)
+  ![@pokemika #30NitesOfCode](https://www.codedex.io/api/petStatus?user=pokemika)
   
 </div>
 
